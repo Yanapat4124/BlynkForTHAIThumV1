@@ -67,7 +67,6 @@
 #define WIFI_AP_IP                    IPAddress(192, 168, 4, 1)
 #define WIFI_AP_Subnet                IPAddress(255, 255, 255, 0)
 //#define WIFI_CAPTIVE_PORTAL_ENABLE
-
 //#define USE_TICKER
 //#define USE_TIMER_ONE
 //#define USE_TIMER_THREE
